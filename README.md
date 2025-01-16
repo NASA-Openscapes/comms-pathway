@@ -1,64 +1,25 @@
-# Sample Project
+# Comms Pathway
+This is where we are standing up a strategy & design plan for communications skills-building. Our initial focus is on Mentors, but we are thinking inclusively about the needs and capacity of the entire Openscapes community.
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template!
+***PURPOSE:***<br>
+Mentors have requested skills-building. A haphazard approach introduces more cognitive load without providing clarity about why it's worth doing. This wastes energy and undermines enthusiasm. Comms skills are hard enough to acquire - we need all the clarity and dedication we can get.
 
-## Files
-
-* `.gitignore`
-<br> Globally ignored files by `git` for the project.
-* `environment.yml`
-<br> `conda` environment description needed to run this project.
-* `README.md`
-<br> Description of the project (see suggested headings below)
-
-## Folders
-
-### `contributors`
-Each team member has it's own folder under contributors, where they can work on their contribution. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch.
-
-### `notebooks`
-Notebooks that are considered delivered results for the project should go in here.
-
-### `scripts`
-Helper utilities that are shared with the team
-
-# Recommended content for your README.md file:
-
-## Project Summary
-
-### Project Title
-
-Brief title describing the proposed work.
+***OBJECTIVES:***<br>
+a visible scaffolding that shows how each skill and concept fits into the whole and supports learners at any point in their own development, and in whatever domain they're drawn to first.
 
 ### Collaborators on this project
-
-List all participants on the project. Choose one team member to act as project lead, and identify one hackweek organizer as the data science lead.
+Liz Neeley (lead) + Julie Lowndes
 
 ### The problem
-
-What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
-
-### Application Example
-
-List one specific application of this work.
-
-### Sample data
-
-If you already have some data to explore, briefly describe it here (size, format, how to access).
-
-### Specific Questions
-
-List the specific tasks you want to accomplish or research questions you want to answer.
-
-### Existing methods
-
-How would you or others traditionally try to address this problem?
-
-### Proposed methods/tools
-
-Building from what you learn at this hackweek, what new approaches would you like to try to implement?
+We want to build out a thoughtful program for support self-guided and mediated communication skills development. We need to help people figure out where to start, what to focus on, and in which order. 
 
 ### Background reading
+- Coletti, A. et al. (2023) ***‘Examining Oral Communication Skills in Communication Training Programs for STEM Professionals: A Systematic Quantitative Literature Review’***, Science Communication, 45(6), pp. 693–723. Available at: https://doi.org/10.1177/10755470231202773.
+- Lewenstein, B.V. and Baram-Tsabari, A. (2022)  ***‘How should we organize science communication trainings to achieve competencies?’ ***, International Journal of Science Education, Part B, 12(4), pp. 289–308. Available at: https://doi.org/10.1080/21548455.2022.2136985.
+- Ho, S.S., Goh, T.J. and Chuah, A.S.F. (2022) ***‘Perceived behavioral control as a moderator: Scientists’ attitude, norms, and willingness to engage the public’***, PLOS ONE. Edited by J. Wang, 17(10), p. e0275643. Available at: https://doi.org/10.1371/journal.pone.0275643.
+- Fähnrich, B. et al. (2021) ‘RETHINKING Science Communication Education and Training: Towards a Competence Model for Science Communication’, Frontiers in Communication, 6. Available at: https://doi.org/10.3389/fcomm.2021.795198.
+- Dudo, A., Besley, J.C. and Yuan, S. (2020) ***‘Science Communication Training in North America: Preparing Whom to Do What With What Effect?’***, Science Communication, p. 107554702096013. Available at: https://doi.org/10.1177/1075547020960138.
+- Baram-Tsabari, A. and Lewenstein, B.V. (2017)  ***‘Science communication training: what are we trying to teach?’ ***, International Journal of Science Education, Part B, 7(3), pp. 285–300. Available at: https://doi.org/10.1080/21548455.2017.1303756.
 
-Optional: links to manuscripts or technical documents for more in-depth analysis.
+
 
