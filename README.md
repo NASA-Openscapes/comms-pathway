@@ -1,5 +1,5 @@
 # Comms Pathway
-This is where we are standing up a strategy & design plan for communications skills-building. Our initial focus is on Mentors, but we are thinking inclusively about the needs and capacity of the entire Openscapes community.
+This is where we are standing up a strategy & design plan for communications skills-building. Our initial focus is on Mentors, but we are thinking about the needs and capacity of the entire Openscapes community.
 
 ***PURPOSE:***<br>
 Mentors have requested skills-building. A haphazard approach introduces more cognitive load without providing clarity about why it's worth doing. This wastes energy and undermines enthusiasm. Comms skills are hard enough to acquire - we need all the clarity and dedication we can get.
